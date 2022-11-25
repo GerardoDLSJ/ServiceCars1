@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Service cars</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="login">INICIAR SESIÓN</string>
+    <string name="forgot_password">¿HAS OLVIDADO TU CONTRASEÑA?</string>
+    <string name="new_user_register_now">¿Nuevo Usuario? Regístrate ahora</string>
+</resources>
